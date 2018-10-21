@@ -1,5 +1,5 @@
 _repo: The-Confession-of-a-Child-of-the-Century-Volume-1_3939
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Historical fiction'
 - !lcc 'PQ'
 - !lcsh 'French fiction -- Translations into English'
+- GITenberg
 title: The Confession of a Child of the Century — Volume 1
 url: http://www.gutenberg.org/ebooks/3939
